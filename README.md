@@ -67,8 +67,8 @@ With knowledge in economics and skills in data analysis, I aim to contribute to 
 
 ## 🏆 Certifications
 
-- **Database and SQL for Data Science**
-- **Analyzing and Visualizing Data on Power BI**
+- **HackerRank (SQL - Advanced 2023)**
+- **Udemy (Analyzing and Visualizing Data on Power BI)**
 
 ## 🚀 Let's Collaborate!
 
